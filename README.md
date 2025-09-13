@@ -2,6 +2,10 @@
 
 A command-line utility that provides progress tracking and safety features for recursive file deletion operations.
 
+<p align="center">
+  <img src="rmrf-progress.gif" alt="rmrf-progress demo" width="600">
+</p>
+
 ## Features
 
 - Real-time progress bar with completion percentage and ETA
