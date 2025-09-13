@@ -21,12 +21,6 @@ cd rmrf-progress
 go build -o rmrf-progress main.go
 ```
 
-### Using Go Install
-
-```bash
-go install github.com/Cod-e-Codes/rmrf-progress@latest
-```
-
 ## Usage
 
 ```bash
